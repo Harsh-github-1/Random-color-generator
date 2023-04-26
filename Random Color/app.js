@@ -15,5 +15,3 @@ document.getElementById('btn').addEventListener("click", getColor)
 
 
 getColor();
-
-abjgf();
